@@ -1,0 +1,52 @@
+.Login{
+    position: relative;
+    height: 100vh;
+    background: url("C:\Users\krish\Desktop\All_my_Reactjs_Projects\netflix-app\src\Images/Netflix-Background.jpg") center no-repeat;
+    background-size: cover;
+   
+}
+
+.Login-form button{
+    font-size: px;
+    color:white;
+  
+    height:50px;
+    padding:0px 7px 5px 5px;
+    background-color: #fc0a0a;
+    
+}
+.Login-form input{
+    width:300px;
+    height: 40px;
+    padding: 0px 15px 3px ;
+
+}
+.Login-body h1{
+    font-size: 50px;
+}
+.Login-body{
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+    padding: 130px;
+    text-shadow: black;
+}
+.Logo{
+width:140px;
+position:left;
+padding:10px
+
+
+}
+.Login-button{
+ background-color: #fc0a0a;
+ padding:10px 20px;
+ color: white;
+ text-transform: uppercase;
+ border-radius: 5px;
+ position:fixed;
+ top:20px;
+ right:15px;
+
+
+}
